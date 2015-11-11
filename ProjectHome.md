@@ -1,0 +1,1 @@
+Tina POS is a point of sale application designed for touch screens, supports ESC/POS ticket printers, customer displays and barcode scanners. Its multiuser and has a great backoffice with a product entry form, reports and charts.
